@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B390B5D0-A453-4805-BEE4-8ED4AF6296EA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66726918-0E5D-4BEF-B82C-A789EBAAF498"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fix-Fixo/Controller/TextFieldTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "textField(_:shouldChangeCharactersIn:replacementString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66726918-0E5D-4BEF-B82C-A789EBAAF498 - 16301ff796051095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fix_Fixo.TextFieldTableViewCell.setSelected(_: Swift.Bool, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Fix-Fixo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishoreb/Downloads/Fix-Fixo/Fix-Fixo/Controller/TextFieldTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "66726918-0E5D-4BEF-B82C-A789EBAAF498 - 20e2acfb8ec860c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fix_Fixo.TextFieldTableViewCell.textField(_: __C.UITextField, shouldChangeCharactersIn: __C._NSRange, replacementString: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Fix-Fixo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishoreb/Downloads/Fix-Fixo/Fix-Fixo/Controller/TextFieldTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "66726918-0E5D-4BEF-B82C-A789EBAAF498 - 813da24e8f7d07b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fix_Fixo.TextFieldTableViewCell.textField(_: __C.UITextField, shouldChangeCharactersIn: __C._NSRange, replacementString: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Fix-Fixo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishoreb/Desktop/Fix-Fixo/Fix-Fixo/Controller/TextFieldTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Fix-Fixo-Fix-FixoUITests/Pods-Fix-Fixo-Fix-FixoUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/WMSegmentControl/WMSegmentControl.framework

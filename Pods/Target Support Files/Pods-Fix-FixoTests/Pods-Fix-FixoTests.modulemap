@@ -1,0 +1,6 @@
+framework module Pods_Fix_FixoTests {
+  umbrella header "Pods-Fix-FixoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
